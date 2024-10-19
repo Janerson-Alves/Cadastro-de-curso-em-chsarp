@@ -1,0 +1,14 @@
+D:\Cursos\BootCamp .NET C#\pratica\bin\Debug\net8.0\pratica.exe
+D:\Cursos\BootCamp .NET C#\pratica\bin\Debug\net8.0\pratica.deps.json
+D:\Cursos\BootCamp .NET C#\pratica\bin\Debug\net8.0\pratica.runtimeconfig.json
+D:\Cursos\BootCamp .NET C#\pratica\bin\Debug\net8.0\pratica.dll
+D:\Cursos\BootCamp .NET C#\pratica\bin\Debug\net8.0\pratica.pdb
+D:\Cursos\BootCamp .NET C#\pratica\obj\Debug\net8.0\pratica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\BootCamp .NET C#\pratica\obj\Debug\net8.0\pratica.AssemblyInfoInputs.cache
+D:\Cursos\BootCamp .NET C#\pratica\obj\Debug\net8.0\pratica.AssemblyInfo.cs
+D:\Cursos\BootCamp .NET C#\pratica\obj\Debug\net8.0\pratica.csproj.CoreCompileInputs.cache
+D:\Cursos\BootCamp .NET C#\pratica\obj\Debug\net8.0\pratica.dll
+D:\Cursos\BootCamp .NET C#\pratica\obj\Debug\net8.0\refint\pratica.dll
+D:\Cursos\BootCamp .NET C#\pratica\obj\Debug\net8.0\pratica.pdb
+D:\Cursos\BootCamp .NET C#\pratica\obj\Debug\net8.0\pratica.genruntimeconfig.cache
+D:\Cursos\BootCamp .NET C#\pratica\obj\Debug\net8.0\ref\pratica.dll
